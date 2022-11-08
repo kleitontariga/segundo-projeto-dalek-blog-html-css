@@ -1,0 +1,46 @@
+body{
+    background: url('imagens/fundo1.jpg');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px;
+
+}
+
+#menu{
+    background: blueviolet;
+    padding: 18px;
+    
+
+}
+
+#conteudo{
+    background: rgb(134, 30, 134);
+    padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+a{
+ color: black;
+ text-decoration: none;
+ font: bold;
+ padding: 5px;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+h1{
+    color: blueviolet;
+    font-size: 1.2em;
+}
+
+.img-campanha{
+    border: 10px solid rgba(117, 21, 117, 0.267);
+    
+}
